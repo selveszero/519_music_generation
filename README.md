@@ -21,7 +21,7 @@
 
 ## MuseGAN Model:
 
-### Open the musegan.ipynb in google colab and follow the instructions there
+Open the musegan.ipynb in google colab and follow the instructions there
 
 ## Sequence2Sequence model (encoder-decoder):
 
